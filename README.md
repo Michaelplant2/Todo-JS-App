@@ -1,2 +1,4 @@
-# Todo-JS-App
- Small JavaScript Todo App
+# Simple And Small Todo App
+Simple todo app using Javascript, CSS and Local Storage
+
+![Todo App](img/screenshot.png)
